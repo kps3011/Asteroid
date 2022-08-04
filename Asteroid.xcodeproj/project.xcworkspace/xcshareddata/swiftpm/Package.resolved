@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "8dd85aee02e39dd280c75eef88ffdb86eed4b07b",
+          "version": "5.6.2"
+        }
+      },
+      {
+        "package": "FLCharts",
+        "repositoryURL": "https://github.com/francescoleoni98/FLCharts",
+        "state": {
+          "branch": null,
+          "revision": "0732e70b410870f7cadf5797e777cbb222d0190a",
+          "version": "1.8.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
